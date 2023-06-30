@@ -1,0 +1,15 @@
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\Proyectoconjoaco.csproj.AssemblyReference.cache
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\Proyectoconjoaco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\Proyectoconjoaco.AssemblyInfoInputs.cache
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\Proyectoconjoaco.AssemblyInfo.cs
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\Proyectoconjoaco.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\bin\Debug\net6.0\Proyectoconjoaco.exe
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\bin\Debug\net6.0\Proyectoconjoaco.deps.json
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\bin\Debug\net6.0\Proyectoconjoaco.runtimeconfig.json
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\bin\Debug\net6.0\Proyectoconjoaco.dll
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\bin\Debug\net6.0\Proyectoconjoaco.pdb
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\Proyectoconjoaco.dll
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\refint\Proyectoconjoaco.dll
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\Proyectoconjoaco.pdb
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\Proyectoconjoaco.genruntimeconfig.cache
+C:\Users\joaqu\Desktop\proyecto\Proyectoconjoaco\Proyectoconjoaco\obj\Debug\net6.0\ref\Proyectoconjoaco.dll
